@@ -130,4 +130,5 @@ class App extends React.Component {
 export default App
 
 
-// I am at Video 18
+// I am at Video 22
+// I can't hand-animate them though, have to use his code
