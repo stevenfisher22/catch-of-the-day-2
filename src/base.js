@@ -14,4 +14,3 @@ export { firebaseApp};
 
 // This is a default export
 export default base;
-
